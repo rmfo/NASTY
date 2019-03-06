@@ -1,7 +1,7 @@
 # NASTY
 Nerf Autonomous Sentry Turret for You
 
-The NAST project aims at devising an autonomous Raspberry Pi & NERF based sentry gun.
+The NASTY project aims at devising an autonomous Raspberry Pi & NERF based sentry gun.
 Current bill of materials include:
   - NERF Stryfe Elite
   - Raspberry Pi 3+
@@ -11,6 +11,6 @@ Current bill of materials include:
   - 5v 15w power supply for the Raspberry
   - breadboards and cables
 
-A few tips on what not to do :-)
-  - don't unplug your raspberry pi during first boot, you'd need to reflash your sd car
+A few tips on what not to do:-)
+  - don't unplug your raspberry pi during first boot, you'd need to reflash your sd card
   - don't short the power supply, you'd melt your Dupont cable (if you're lucky)
