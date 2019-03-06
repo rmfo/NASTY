@@ -14,3 +14,4 @@ Current bill of materials include:
 A few tips on what not to do:-)
   - don't unplug your raspberry pi during first boot, you'd need to reflash your sd card
   - don't short the power supply, you'd melt your Dupont cable (if you're lucky)
+  - write down the ports you choose for outputs!
